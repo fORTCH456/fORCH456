@@ -1,0 +1,14 @@
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\bin\Debug\net8.0\Vsevolod.exe
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\bin\Debug\net8.0\Vsevolod.deps.json
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\bin\Debug\net8.0\Vsevolod.runtimeconfig.json
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\bin\Debug\net8.0\Vsevolod.dll
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\bin\Debug\net8.0\Vsevolod.pdb
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.AssemblyInfoInputs.cache
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.AssemblyInfo.cs
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.csproj.CoreCompileInputs.cache
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.dll
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\refint\Vsevolod.dll
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.pdb
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\Vsevolod.genruntimeconfig.cache
+C:\Users\seva2\source\repos\Seva2\Vsevolod\Vsevolod\obj\Debug\net8.0\ref\Vsevolod.dll
